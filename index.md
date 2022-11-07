@@ -3,11 +3,11 @@
 ---
 ## Machine learning
 
-### Fraud Detection
+### Fake advertising
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://github.com/Chamategaurav/Logistic_Regression_fake-advertising.git)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
